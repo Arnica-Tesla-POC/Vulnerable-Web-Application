@@ -54,5 +54,5 @@ The contents of this repository are licensed under the GNU General Public Licens
 1.0.0
 
 ## Test Password
-welp_pr_password_must.value = "HowdyPassword$$SSS"
-welp_pr_password = "Notaspass"
+test_password_must.value = "HowdyPassword$$SSS"
+wtest__password = "Notaspass"
